@@ -2,7 +2,7 @@
 This repository contains code and documentation to retrieve and plot monthly page views for the English wikipedia from July 1 2008 through September 30 2017. The goal is to have the steps in a reproducible research format so any reader can be able to follow along and reproduce the results of this analysis, which is similar to the following graph: https://wiki.communitydata.cc/File:PlotPageviewsEN_overlap.png.
 
 # Copyright and Licensing
-NOTE: the code, data and text of this repository are governed by the MIT License included in the [LICENSE file](https://github.com/sumanbhagavathula/wikipediapageviews/blob/master/LICENSE) and [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+NOTE: the code, data and text of this repository are governed by the MIT License included in the [LICENSE file](https://github.com/sumanbhagavathula/wikipediapageviews/blob/master/LICENSE)
 
 The data and images are also available under the [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
 
